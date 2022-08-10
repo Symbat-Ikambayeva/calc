@@ -9,7 +9,7 @@ public class Main {
         int operand2 = getInt();
         int result = getCalculator(operand, operand2, operation);
         System.out.println("Результат:" + result);
-        System.out.println("Завершение");
+        System.out.println("Завершение.");
     }
 
     public static int getInt() {
